@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "kd2g6b9qAJIifm6LsU/dxJRkHfqWE05chxmkvlirvmY=",
+  "Source": "weather-app.Server",
+  "BasePath": "_content/weather-app.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\erich\\source\\repos\\weather-app\\weather-app.client\\weather-app.client.esproj",
+      "Version": 2,
+      "Source": "weather-app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
